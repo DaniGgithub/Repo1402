@@ -19,6 +19,7 @@ public class ShowMeTheMoney2{
      System.out.println("Importe final del banco1 : " + montoBanco1);
      System.out.println("Importe final del banco2 : " + montoBanco2);
      
+     //OJOOOO COMO CONTROLO EL JAVA PAPA
      int numero = 1;
      System.out.println("MODIFICACIO DE LA RAMA DEVEL2, JO, DANI" + numero);
   }
